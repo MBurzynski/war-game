@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/obrazki">
+        <file>img/droga.png</file>
+        <file>img/gora.png</file>
+        <file>img/las.png</file>
+        <file>img/trawa.png</file>
+        <file>img/zamek.png</file>
+        <file>img/ludzik.png</file>
+        <file>img/ludzik1.gif</file>
+        <file>img/czerwony_krol1.png</file>
+        <file>img/czerwony_lucznik1.png</file>
+        <file>img/czerwony_zolnierz1.png</file>
+        <file>img/niebieski_krol1.png</file>
+        <file>img/niebieski_lucznik1.png</file>
+        <file>img/niebieski_zolnierz1.png</file>
+    </qresource>
+</RCC>
